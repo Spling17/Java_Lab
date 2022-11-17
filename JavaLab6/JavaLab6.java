@@ -29,7 +29,7 @@ public class JavaLab6 {
 }
 
     class FindMax {
-        public static <T> T array_max(T data[], int n) {
+        public static <T extends Comparable<T>> T array_max(T data[], int n) {
             T max = data[0];
 
             for(int i =1; i < n-1 ; i++){

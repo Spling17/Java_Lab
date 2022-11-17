@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/ishikawaharuka/Documents/JAVA_File/javafx-sdk-19/lib/javafx-swt.jar",
+        "/Users/ishikawaharuka/Documents/JAVA_File/javafx-sdk-19/lib/javafx.base.jar",
+        "/Users/ishikawaharuka/Documents/JAVA_File/javafx-sdk-19/lib/javafx.controls.jar",
+        "/Users/ishikawaharuka/Documents/JAVA_File/javafx-sdk-19/lib/javafx.fxml.jar",
+        "/Users/ishikawaharuka/Documents/JAVA_File/javafx-sdk-19/lib/javafx.graphics.jar",
+        "/Users/ishikawaharuka/Documents/JAVA_File/javafx-sdk-19/lib/javafx.media.jar",
+        "/Users/ishikawaharuka/Documents/JAVA_File/javafx-sdk-19/lib/javafx.swing.jar",
+        "/Users/ishikawaharuka/Documents/JAVA_File/javafx-sdk-19/lib/javafx.web.jar",
+        "/Users/ishikawaharuka/Documents/JAVA_File/postgresql-42.5.0.jar"
+    ]
+}
